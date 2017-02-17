@@ -21,9 +21,9 @@
 		- [ ] VPC
 		- [ ] S3
 - [ ] Continuous Integration (CI)
-	- [ ] Jenkins
+	- [x] Jenkins
 - [ ] Orchestration
-	- [ ] Docker
+	- [x] Docker
 	- [ ] Kubernets
 - [ ] Software Development Life Cycle (SDLC)
 	- [ ] Agile
@@ -102,11 +102,14 @@
 
 * ***Continuous Integration***
 	- Jenkins
+	Ref : https://github.com/LinuxLibrary/jenkins/tree/master/notes/01-Basics
 
 ------------------
 
 * ***Orchestration***
 	- Docker
+	Ref : https://github.com/LinuxLibrary/docker/tree/master/notes/LA-notes/01-Basics
+
 	- Kubernets
 
 ------------------
